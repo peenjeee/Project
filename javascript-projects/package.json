@@ -1,0 +1,16 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "node-basic",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1",
+    "moment": "^2.30.1"
+  }
+}
