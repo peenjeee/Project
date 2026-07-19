@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "storybook/hierarchy-separator": "off",
+    "storybook/default-exports": "off",
+    "storybook/story-exports": "off",
+    "storybook/prefer-pascal-case": "off",
+    "storybook/csf-component": "off"
+  }
+}
